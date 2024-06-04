@@ -1,0 +1,18 @@
+Theory Oriented Playlists are taken from https://www.deeplearning.ai/
+These courses are instructed by Andrew Ng, a well known professor from Stanford University. 
+You will find the videos helpfull for the math and basics behind deep learning.
+
+Theory Oriented Playlist for ML: 
+https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI
+
+Theory Oriented Playlist for DL:
+https://youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0
+https://youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc
+https://youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b
+https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+https://youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6
+
+
+
+Videos by StatQuest on Machine Learning:
+https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&si=fO3KvlzYJ-O6W5kW
