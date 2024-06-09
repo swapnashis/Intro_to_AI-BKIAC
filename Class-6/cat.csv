@@ -1,0 +1,11 @@
+Ear shape,Face shape,Whiskers,Cat
+Pointy,Round,Present,1
+Floppy,Not round,Present,1
+Floppy,Round,Absent,0
+Pointy,Not round,Present,0
+Pointy,Round,Present,1
+Pointy,Round,Absent,1
+Floppy,Not round,Absent,0
+Pointy,Round,Absent,1
+Floppy,Round,Absent,0
+Floppy,Round,Absent,0
